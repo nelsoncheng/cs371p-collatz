@@ -19,7 +19,7 @@ GitHub ID: nelsoncheng <br>
 GitHub Repository Name: cs371p-collatz <br>
 <br>
 Comments: <br>
-I randomly generated some numbers that caused an integer overflow. I had to take this into consideration despite the program specified such cases would not happen.
+I randomly generated some numbers that caused an integer overflow. As such, my RunCollatz.out is kinda wrong. Sphere has no problems as it says to assume that no overflow operations will occur with their test cases, but this is not true for my test cases. 
 <br>
 <br>
 <br>
